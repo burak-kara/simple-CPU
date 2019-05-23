@@ -1,6 +1,5 @@
 # Simple-CPU
 16-bit Instruction Word (IW) of ProjectCPU:
-
                                 IW
                |----------------------------------
   bit position |15    13| 12                    0|
